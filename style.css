@@ -1,0 +1,36 @@
+
+body {
+
+background-color: #a8dadc;
+background-repeat: no-repeat;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+text-align: center;
+}
+
+.main-img{
+  
+}
+
+
+#bill {
+width: 20%;
+height: 20%;
+border-radius: 50%;
+border: 1px solid #1d3557;
+margin-left: 38%;
+}
+
+.leftInfo {
+width: 50%;  
+border: 1px solid #1d3557;
+background-color: white;
+}
+
+#para-one{
+
+font-weight: 100px;
+
+}
